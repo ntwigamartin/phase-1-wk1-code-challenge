@@ -7,8 +7,13 @@
 
 **<h3>Project Setup</h3>**
 <p>The program prompts the user to enter marks scored between 0 & 100.<br> 
-The current version runs via terminal using the command node index.js <br>
-Criteria for grading(A > 79, B - 60 to 79, C -  50 to 59, D - 40 to 49, E - less 40.)</p>
+Criteria for grading(A > 79, B - 60 to 79, C -  50 to 59, D - 40 to 49, E - less 40.)<br>
+The current version runs via terminal using the command node index.js<br>
+1.Open terminal and clone the repo using the following command,<br>
+git clone git@github.com:ntwigamartin/phase-1-wk1-code-challenge.git<br>
+2. cd to the cloned repo and run code . to open it on vs code<br>
+3. Run the command npm install to install the required dependencies<br>
+4. Run the program using the command node index.js </p>
 
 <p>Author: Martin Ntwiga<br>
 License: Apache 2.0</p>
@@ -22,7 +27,13 @@ The program advises the driver of their total accumulative demerit points. <br>O
 the driver is advised that the license has been suspended.</p>
 
 **<h3>Project Setup</h3>**
-<p>The current program version runs via terminal using the command node index.js. <br>The driver gets a message of 'ok' for speeds within the limit of 70, and the number of <br>demerit points for speeds above 70. <br>Once the driver hits speed of 135, they are advised that the license has been suspended.</p>
+<p>The driver gets a message of 'ok' for speeds within the limit of 70, and the number of <br>demerit points for speeds above 70. <br>Once the driver hits speed of 135, they are advised that the license has been suspended.<br>
+The current version runs via terminal using the command node index.js<br>
+1.Open terminal and clone the repo using the following command,<br>
+git clone git@github.com:ntwigamartin/phase-1-wk1-code-challenge.git<br>
+2. cd to the cloned repo and run code . to open it on vs code<br>
+3. Run the command npm install to install the required dependencies<br>
+4. Run the program using the command node index.js </p>
 
 <p>Author: Martin Ntwiga<br>
 License: Apache 2.0</p>
@@ -36,7 +47,12 @@ License: Apache 2.0</p>
 **<h3>Project Setup</h3>**
 <p>The program computes values for nhif deduction and paye deduction and adopts <br>a fixed figure for nssf deduction at 200.
 The net pay is arrived at by deducting the nhif, <br>paye & nssf from the gross pay. The current version runs via terminal
-using <br>the command node index.js by passing a value of the gross pay.</p>
+using <br>the command node index.js by passing a value of the gross pay.<br>
+1.Open terminal and clone the repo using the following command,<br>
+git clone git@github.com:ntwigamartin/phase-1-wk1-code-challenge.git<br>
+2. cd to the cloned repo and run code . to open it on vs code<br>
+3. Run the command npm install to install the required dependencies<br>
+4. Run the program using the command node index.js </p>
 
 <p>Author: Martin Ntwiga<br>
 License: Apache 2.0</p>
